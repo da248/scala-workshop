@@ -1,0 +1,2 @@
+# scala-workshop
+scala environment
